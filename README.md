@@ -8,11 +8,17 @@ The final selected model is **Model 3.0 (static multimodal fusion)**.
 
 ## 📁 Repository Structure
 ├── Dynfuse-bag-of-lies.ipynb # Main notebook (end-to-end pipeline)
+
 ├── data/
+
 │ ├── bag_of_lies/ # Extracted dataset
+
 │ ├── features/ # Cached audio & video features
+
 │ └── transcriptions.csv # Whisper ASR outputs
+
 ├── graphs/ # Evaluation plots and analysis figures
+
 └── README.md
 
 ---
