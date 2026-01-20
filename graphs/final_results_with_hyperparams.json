@@ -1,0 +1,274 @@
+{
+  "hyperparameter_search": {
+    "static_best": {
+      "config": {
+        "hidden_dim": 128,
+        "num_layers": 1,
+        "learning_rate": 0.001,
+        "dropout_fc": 0.3,
+        "batch_size": 16
+      },
+      "score": 0.7182222222222222
+    },
+    "dynamic_best": {
+      "config": {
+        "hidden_dim": 64,
+        "num_layers": 1,
+        "learning_rate": 0.002,
+        "dropout_fc": 0.5,
+        "batch_size": 32
+      },
+      "score": 0.7097777777777778
+    },
+    "static_all_results": [
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.6953333333333334
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.660888888888889
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.002,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.7142222222222221
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.6828888888888889
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.3,
+          "batch_size": 16
+        },
+        "score": 0.7182222222222222
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.3,
+          "batch_size": 32
+        },
+        "score": 0.694888888888889
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.3,
+          "batch_size": 32
+        },
+        "score": 0.6737777777777778
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.002,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.7006666666666668
+      },
+      {
+        "config": {
+          "hidden_dim": 256,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.7071111111111111
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.6946666666666668
+      }
+    ],
+    "dynamic_all_results": [
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.6871111111111111
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.6777777777777778
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.002,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.6997777777777778
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.6773333333333333
+      },
+      {
+        "config": {
+          "hidden_dim": 128,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.3,
+          "batch_size": 16
+        },
+        "score": 0.6991111111111111
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.3,
+          "batch_size": 32
+        },
+        "score": 0.6897777777777777
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 2,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.3,
+          "batch_size": 32
+        },
+        "score": 0.6775555555555556
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.002,
+          "dropout_fc": 0.5,
+          "batch_size": 32
+        },
+        "score": 0.7097777777777778
+      },
+      {
+        "config": {
+          "hidden_dim": 256,
+          "num_layers": 1,
+          "learning_rate": 0.001,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.6955555555555556
+      },
+      {
+        "config": {
+          "hidden_dim": 64,
+          "num_layers": 1,
+          "learning_rate": 0.0005,
+          "dropout_fc": 0.5,
+          "batch_size": 16
+        },
+        "score": 0.6837777777777778
+      }
+    ]
+  },
+  "cv_with_best_hyperparams": {
+    "static": {
+      "accuracies": [
+        0.7,
+        0.72,
+        0.6888888888888889,
+        0.68,
+        0.66
+      ],
+      "mean": 0.6897777777777778,
+      "std": 0.02000493766209224
+    },
+    "dynamic": {
+      "accuracies": [
+        0.7166666666666667,
+        0.68,
+        0.6888888888888889,
+        0.72,
+        0.74
+      ],
+      "mean": 0.7091111111111111,
+      "std": 0.021845699071012442
+    }
+  },
+  "final_test": {
+    "static": {
+      "loss": 2.3447285652160645,
+      "accuracy": 0.7,
+      "precision": 0.7144702842377262,
+      "recall": 0.7034313725490196,
+      "f1": 0.696969696969697,
+      "auc": 0.7549019607843137
+    },
+    "dynamic": {
+      "loss": 1.6206764380137126,
+      "accuracy": 0.7285714285714285,
+      "precision": 0.7444444444444445,
+      "recall": 0.7246732026143792,
+      "f1": 0.7216991002301736,
+      "auc": 0.7312091503267973
+    }
+  },
+  "statistical_test": {
+    "t_statistic": 0.9661300767465171,
+    "p_value": 0.3886894993007032
+  }
+}
