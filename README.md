@@ -139,10 +139,12 @@ This project demonstrates:
 - That **dynamic fusion does not always outperform static fusion**
 - A strong and reproducible final model via **Model 3.0**
 
+---
 
-
-
-
+## Autors
+Tomer Ronen
+Ben Sarid
+Noga Klein
 
 
 
